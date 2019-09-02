@@ -1,0 +1,5 @@
+Receive (via CSP) data frame 1 from SP 0
+Send request to CSP to send data frame 1 to SP 1
+Receive positive reply (permission) from CSP to send data frame 1 to SP 1
+Send (via CSP) data frame 1 to SP 1
+Receive (via CSP) data frame 2 from SP 3
